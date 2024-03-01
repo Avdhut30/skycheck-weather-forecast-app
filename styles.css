@@ -1,0 +1,43 @@
+body {
+  background-color: #f0f2f5; /* Light grey background */
+  font-family: "Arial", sans-serif;
+}
+
+h1 {
+  color: #333; /* Dark grey color for headings */
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.input-group {
+  max-width: 600px; /* Restrict the width of the input group */
+  margin: auto; /* Center the input group */
+}
+
+.card {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to cards */
+}
+
+.card-title {
+  font-size: 24px; /* Increase the font size of the card title */
+}
+
+.card-text {
+  font-size: 16px; /* Adjust font size for card text */
+}
+
+#weatherResult {
+  margin-top: 20px;
+}
+
+/* Add responsiveness to the card for smaller devices */
+@media (max-width: 768px) {
+  .card-body {
+    padding: 20px;
+  }
+
+  .card-title,
+  .card-text {
+    text-align: center;
+  }
+}
