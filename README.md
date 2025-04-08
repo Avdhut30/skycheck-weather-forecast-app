@@ -37,7 +37,8 @@ Distributed under the MIT License. See LICENSE for more information.
 ## Contact
 ## Avdhut Shinde - Avdhut30
 
-Project Link: https://github.com/Avdhut30/skycheck-weather-forecast-app
+Project Link: [https://github.com/Avdhut30/skycheck-weather-forecast-app](
+https://avdhut30.github.io/skycheck-weather-forecast-app/)
 
 # Acknowledgements
 # OpenWeatherMap API
