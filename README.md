@@ -1,5 +1,31 @@
 # SkyCheck Weather Forecast App
 
+
+## 🌦️ Weather Visuals Preview
+
+| Sunny | Cloudy | Rainy | Snowy |
+|:-----:|:------:|:-----:|:-----:|
+| ![Sunny](https://tse3.mm.bing.net/th?id=OIP.hDtJw8rfYRklDfrYBfmc6gHaEo&pid=Api) | ![Cloudy](https://tse4.mm.bing.net/th?id=OIP.1En8ecEgIeCtj8_8aZGBkAHaEo&pid=Api) | ![Rainy](https://www.publicdomainpictures.net/pictures/190000/nahled/rain-clouds.jpg) | ![Snowy](https://tse1.mm.bing.net/th?id=OIP.4T-8vQVMsXZiX1I1c50EtAHaE4&pid=Api) |
+
+---
+
+## 🔆 Features
+
+- Real-time weather updates
+- Dynamic weather-based backgrounds
+- Clean and intuitive UI
+- Responsive across all devices
+
+---
+
+## 📸 Screenshots
+
+Add screenshots of your live app here using:
+
+```markdown
+![App Screenshot](https://your-image-url.com/screenshot1.png)
+
+
 SkyCheck is a simple, intuitive web application for checking the current weather conditions in cities around the globe. Built with HTML, CSS, Bootstrap, and JavaScript, it offers users the ability to quickly search for a city and receive real-time weather data including temperature, weather conditions, and more.
 
 ## Features
